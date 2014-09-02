@@ -1,0 +1,8 @@
+c:\users\semih\documents\visual studio 2010\Projects\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+c:\users\semih\documents\visual studio 2010\Projects\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+c:\users\semih\documents\visual studio 2010\Projects\ServerApp\ServerApp\obj\x86\Debug\ServerApp.Form1.resources
+c:\users\semih\documents\visual studio 2010\Projects\ServerApp\ServerApp\obj\x86\Debug\ServerApp.Properties.Resources.resources
+c:\users\semih\documents\visual studio 2010\Projects\ServerApp\ServerApp\obj\x86\Debug\ServerApp.csproj.GenerateResource.Cache
+c:\users\semih\documents\visual studio 2010\Projects\ServerApp\ServerApp\obj\x86\Debug\ServerApp.exe
+c:\users\semih\documents\visual studio 2010\Projects\ServerApp\ServerApp\obj\x86\Debug\ServerApp.pdb
+C:\Users\semih\Documents\Visual Studio 2010\Projects\ServerApp\ServerApp\obj\x86\Debug\ServerApp.csprojResolveAssemblyReference.cache
